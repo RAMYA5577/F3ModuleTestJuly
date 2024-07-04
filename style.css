@@ -1,0 +1,53 @@
+*{
+  
+    margin-top: 20px;
+}
+body{
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+#green{
+    color: green !important;
+}
+
+table {
+    width: 90%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-left: 60px;
+    /* background-color: black; */
+    /* color:white; */
+}
+th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    justify-content: center;
+    padding: 8px;
+    background-color: black !important;
+    color: white !important;
+}
+th {
+    background-color: black !important;
+    color: white !important;
+}
+
+#search-input{
+    margin-bottom: 10px;
+    background-color: black !important;
+    color: white !important;
+    padding: 20px;
+    margin-left: 60px;
+    width: 850px;
+    border-color: white !important;
+}
+button{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    width: 250px;
+    border-color: white !important;
+    cursor: pointer;
+}
+
